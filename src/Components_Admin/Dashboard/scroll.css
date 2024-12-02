@@ -1,0 +1,4 @@
+.tableBodyScrollable {
+    overflow-y: auto;
+    max-height: 400px; /* Adjust the height as needed */
+  }
